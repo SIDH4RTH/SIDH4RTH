@@ -5,6 +5,7 @@
 ⚡ Interests: Web development, software design, and problem-solving  
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sidharthan-ak) 
 
